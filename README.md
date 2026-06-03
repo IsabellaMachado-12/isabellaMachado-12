@@ -57,12 +57,31 @@ Sou estudante apaixonado por tecnologia, com experiência na área de dados e gr
 <br/>
 <br/>
 
+
 ### 📊 Estatísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsabellaMachado-12&show_icons=true&theme=radical" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMachado-12&layout=compact&theme=radical" />
-</p>
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabellaMachado-12&theme=tokyonight"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabellaMachado-12&theme=tokyonight"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    width="98%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabellaMachado-12&theme=tokyonight"
+  />
+
+</div>
+
