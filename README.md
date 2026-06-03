@@ -65,6 +65,5 @@ Sou estudante apaixonado por tecnologia, com experiência na área de dados e gr
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaMachado-12&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
   </a>
 </div>
-```
 
 
