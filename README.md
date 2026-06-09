@@ -75,7 +75,7 @@ Sou estudante apaixonado por tecnologia, com experiência na área de dados e gr
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabellaMachado-12&theme=tokyonight" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabellaMachado-12&theme=tokyonight" />
 
 </div>
 
