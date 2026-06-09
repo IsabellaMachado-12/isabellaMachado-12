@@ -57,33 +57,26 @@ Sou estudante apaixonado por tecnologia, com experiência na área de dados e gr
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IsabellaMachado-12&theme=tokyonight" />
-
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsabellaMachado-12&theme=tokyonight" />
 
 </div>
 
-<br>
-
 <div align="center">
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsabellaMachado-12&theme=tokyonight" />
-
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IsabellaMachado-12&theme=tokyonight&utcOffset=-3" />
 
 </div>
-
-<br>
 
 <div align="center">
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsabellaMachado-12&theme=tokyonight" />
 
 </div>
-
 
 
